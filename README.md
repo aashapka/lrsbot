@@ -1,2 +1,0 @@
-# lrsbot
-for lrs stream
